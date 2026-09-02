@@ -49,7 +49,7 @@ JUCE, Signalsmith Stretch, and Signalsmith Linear are included as Git
 submodules. Clone the repository with its submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/whoamidaisissues/CrookedTune.git
+git clone --recurse-submodules https://github.com/whoamidaissues/CrookedTune.git
 cd CrookedTune
 ```
 
