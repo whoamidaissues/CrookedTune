@@ -53,11 +53,6 @@ git clone --recurse-submodules https://github.com/whoamidaissues/CrookedTune.git
 cd CrookedTune
 ```
 
-If the repository was cloned without them, run:
-
-```bash
-git submodule update --init --recursive
-```
 
 ## Building on macOS
 
